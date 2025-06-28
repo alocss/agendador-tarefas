@@ -1,8 +1,6 @@
-package com.alexribeiro.agendadortarefas.infrastructure.business.dto;
+package com.alexribeiro.agendadortarefas.business.dto;
 
 import lombok.*;
-
-import java.util.List;
 
 @Getter
 @Setter
